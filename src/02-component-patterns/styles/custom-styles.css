@@ -23,8 +23,14 @@
     border-color: white;
 }
 
+<<<<<<< HEAD
 .shopping-cart {
     position: fixed;
+=======
+
+.shopping-cart {
+    position: fixed;   
+>>>>>>> 3eea1822f4901fe08a1f0e37b1cc02cd71bc1320
     right: 10px;
     top: 0px;
 }
