@@ -29,18 +29,7 @@ export interface onChangeArgs {
     count: number;
 }
 
-<<<<<<< HEAD
 export interface ProductInCart extends Product {
     count: number
 }
-=======
-export interface onChangeArgs {
-    product: Product;
-    count: number;
-}
 
-
-export interface ProductInCart extends Product {
-    count: number
-}
->>>>>>> 3eea1822f4901fe08a1f0e37b1cc02cd71bc1320
